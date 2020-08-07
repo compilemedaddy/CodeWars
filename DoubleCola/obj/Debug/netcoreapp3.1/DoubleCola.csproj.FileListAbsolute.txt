@@ -1,0 +1,3 @@
+C:\Users\Jesper Bach\source\repos\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.csprojAssemblyReference.cache
+C:\Users\Jesper Bach\source\repos\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.AssemblyInfoInputs.cache
+C:\Users\Jesper Bach\source\repos\DoubleCola\obj\Debug\netcoreapp3.1\DoubleCola.AssemblyInfo.cs

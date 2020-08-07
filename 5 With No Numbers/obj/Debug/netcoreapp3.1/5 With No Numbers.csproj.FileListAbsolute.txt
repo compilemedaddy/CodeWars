@@ -1,0 +1,2 @@
+C:\Users\Jesper Bach\source\repos\5 With No Numbers\obj\Debug\netcoreapp3.1\5 With No Numbers.AssemblyInfoInputs.cache
+C:\Users\Jesper Bach\source\repos\5 With No Numbers\obj\Debug\netcoreapp3.1\5 With No Numbers.AssemblyInfo.cs

@@ -1,0 +1,3 @@
+C:\Users\Jesper Bach\source\repos\GiveMeACrazyFormula\obj\Debug\netcoreapp3.1\GiveMeACrazyFormula.csprojAssemblyReference.cache
+C:\Users\Jesper Bach\source\repos\GiveMeACrazyFormula\obj\Debug\netcoreapp3.1\GiveMeACrazyFormula.AssemblyInfoInputs.cache
+C:\Users\Jesper Bach\source\repos\GiveMeACrazyFormula\obj\Debug\netcoreapp3.1\GiveMeACrazyFormula.AssemblyInfo.cs
